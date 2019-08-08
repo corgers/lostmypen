@@ -1,0 +1,68 @@
+﻿Lucky Student
+[name]'s life has changed remarkably little since [she] arrived on your station. [She] goes to school surrounded by other slaves, and hasn't yet been properly introduced to the realities of [his] position as a slave. Aside from the rigorous scheduling, [his] life could be mistaken for a free [girl]'s.
+ Show her what’s changed
+* if Low:Mid
+       You summon her to your quarters in the middle of one of her scheduled lessons. She arrives, barely meeting your gaze as she catches her breath. You inform her that her “adjustment period” on the station is over, and that you’ve decided it’s time she took her place as part of your property. Her eyes shoot up, and you see them widen with fear. 
+        "Wait! Wait. Please, don't do this. I'm... I'm not ready! I don't want to!"
+        You’re resolute in your decision, and tell her again to assume her position.
+        [h]She sobs profusely when you’re finally done with her, clutching her knees to her chest. You have a drone carry her back to the slave quarters, while several smaller automatons clean the bloodstains from your clothes.
+
+
+   * If Low:High
+        You summon her to your quarters during one of her scheduled lessons. When she arrives, she casts a defiant gaze towards you, her eyes occasionally darting down when her confidence begins to falter. You tell her that it’s time she adopted a suitable lifestyle, as one of your slaves. She slowly begins to catch on to what you’re implying, and pushes you away when you approach. 
+        However, with your superior strength, you easily keep her from struggling too much while you take       your pleasure from the crying slave.
+        [h]She sobs weakly when you’re finally done with her, clutching her knees to her chest. You have a 
+drone carry her back to the slave quarters while several smaller automatons clean the blood off your clothes. Perhaps more training is in order for her.
+  
+
+      * If Mid:Low
+        You have a drone bring her to your quarters during one of her scheduled lessons.She arrives, giving a half-hearted bow to acknowledge your authority. Pleased, you tell her that you’ve decided that she should begin taking on the duties expected of your slaves. 
+        She understands the implications, sighs and turning around,bending over, presenting herself to you 
+as she tells you to “get it over with”.
+       [h]She sighs irritably when you’re done with her, asking in an annoyed voice if she can finally leave. You give her permission to do so, and she mutters an insult under her breath, wincing with each step from the soreness between her legs. Perhaps you should increase her obedience training.
+
+
+         * If Mid:Mid
+       You have a drone lead her to your quarters during one of her lessons. When she arrives, she gives a reluctant bow, avoiding your gaze fearfully as she acknowledges your authority. You tell her that it’s time that she experienced some changes to her lifestyle.
+         Her eyes widen as she comprehends what you’re saying, and she begs that you reconsider, but ultimately complies when you tell her to bend over.
+         [h]She groans from the soreness between her legs, wincing as she tries to stand. You hear her ask to return to the slave quarters,and allow her to do so. She does her best to make a quick exit, but can only make small steps out of your quarters from the pain in her body. 
+
+
+
+
+            * If Mid:High
+       You summon her to your quarters during one of her scheduled lessons, and she hesitantly does so. Upon arrival, she greets you with a shaky voice before giving a nervous bow. You tell her that you’ve decided that it’s time she took on the duties expected of her as your slave. 
+        You can sense the fear in her voice as she puts up a feeble plea for you to reconsider, but she realises that you won’t budge, and presents herself to you.
+        [h]She whimpers slightly as her maidenhood is taken from her, but you disregard it entirely as you use her as you please.
+        Her eyes hold a distant look as she asks if she can leave. Likely a side effect of her brutal loss of virginity. You nod and she scampers out, trying to hold her tears in.         
+ 
+               * If High:Low
+       You summon her to your quarters during one of her scheduled lessons, and she eagerly does so. When she arrives, her excitement is palpable as she greets you with a kiss. You tell her that you’ve decided to have her take on the duty of pleasuring you, and she beams pleasantly, telling you how happy she is that you’re taking her virginity. 
+        [h]She excitedly leads you to the bed and presents herself to you, eager to please her master.
+        Her panting is pleasing to your ears as you finish with her, and she gives you a peck on your lips.
+       “Thank you, for everything” the affection in her voice is clear as day. “I hope I served you well. A-and I’ll continue doing my best as your property”. You excuse her and she looks at you longingly once more before skipping away to the servant quarters.
+
+
+                  * If High:Mid
+       You call her to your quarters during one of her scheduled lessons, and she does so, arriving with a nervous look in her eyes. You tell her that you’ve decided to have her shoulder the duty of pleasuring you, one of many duties expected of your slaves. 
+        [h]She immediately knows what to do, heading over to the nearby bed and spreading her legs. But the anxiousness in her eyes doesn’t diminish. Her concern over how you’ll treat her moving forward is apparent.              
+        She winces as you take her virginity, and the moans which fill the room mark the day her life changed.
+         When you’re done with her, she seems pleasantly surprised.
+        “I-I just didn’t expect it to feel… so good” 
+        Perhaps she’s beginning to learn that obedience towards you could lead to more pleasant treatment. You dismiss her, and she gives you a careful, tentative look before scurrying off to the slave quarters.
+
+
+                     * If High: High
+       You call her to your quarters during one of her scheduled lessons, and does so panting to catch her breath when she arrives. You see her body tense up as she catches sight of you, making a hurried attempt to bow. You beckon her into your quarters and tell her that it’s time she had a change in lifestyle, namely pleasuring you. 
+        [h]She knows what to do, bending over swiftly and hiking the hem of her clothes up, exposing her virgin cunt to you. You waste no time taking her maidenhood, and immediately, she clenches up from the pain. However, she makes no sound, fearing possible punishment for doing so.
+       When you’re done taking your pleasure from her, you wave her away, and she gets up, bowing quickly once again, taking her leave as she rushes back to the slave quarters. She’s clearly eager to avoid risking punishment from you.
+
+
+
+
+
+
+
+
+  Leave her alone
+        You decided to let [him] live in blissful ignorance for a while longer. Something will shatter the illusion eventually
